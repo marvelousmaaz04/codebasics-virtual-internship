@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 survey_results.csv
+meta_data.txt
+*.joblib
 
 # Distribution / packaging
 .Python
