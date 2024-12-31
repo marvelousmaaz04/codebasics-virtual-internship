@@ -9,6 +9,7 @@ __pycache__/
 survey_results.csv
 meta_data.txt
 *.joblib
+all_data/
 
 # Distribution / packaging
 .Python
